@@ -1,0 +1,517 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+body{
+  background: rgba(0,0,0,0.9);
+  margin: 0;
+  color: #fff;
+}
+
+/* SHOWCASE */
+.showcase::after{
+  content: '';
+  height: 100vh;
+  width: 100%;
+  background-image: url(saigonview.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: block;
+  filter: blur(10px);
+  -webkit-filter: blur(10px);
+  transition: all 1000ms;
+}
+
+.showcase:hover::after{
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+}
+
+.showcase:hover .content{
+  filter: blur(1.5px);
+  -webkit-filter: blur(1.5px);
+}
+
+.content{
+  position: absolute;
+  z-index: 1;
+  top: 10%;
+  left: 50%;
+  margin-top: 105px;
+  margin-left: -145px;
+  width: 350px;
+  height: 350px;
+  text-align: center;
+  transition: all 1000ms;
+}
+
+.content .logo{
+  font-family: 'Dancing Script', cursive;
+  font-size: 4rem;
+}
+
+.content .title{
+  font-size: 2.2rem;
+}
+
+.content .text{
+  line-height: 1.4;
+  font-size: 1.3rem;
+}
+
+/* VIDEOS */
+.container{
+  max-width: 960px;
+  margin: auto;
+  overflow: hidden;
+  text-align: center;
+  padding: 4rem 1rem;
+  letter-spacing: 0.2rem;
+}
+
+.container i{
+  color: red;
+  transition: all 1000ms;
+}
+
+.container i:hover{
+  color: white;
+}
+
+.video .container p{
+  font-size: 1.3rem;
+}
+
+/* Image Area */
+
+#picArea{
+  height: 100vh;
+  background: #fff;
+  color: #33;
+  padding: 2%;
+}
+
+#picArea a{
+  margin: auto;
+}
+
+#picArea .grid{
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 2fr);
+  grid-gap: 20px;
+}
+
+#picArea .grid .pic::after{
+  content: '';
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: block;
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+  margin: auto;
+  position: relative;
+  transition: all 1000ms;
+}
+
+#picArea .grid .pic:hover::after{
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+}
+
+#picArea .grid .pic.p1::after{
+  background-image: url('img/hue-showcase.jpg');
+  width: 80%;
+  height: 80%;
+}
+
+#picArea .grid .pic.p2::after{
+  background-image: url('img/mekong-showcase.jpg');
+  width: 80%;
+  height: 80%;
+}
+
+#picArea .grid .pic.p3::after{
+  background-image: url('img/halong-showcase.jpg');
+  width: 80%;
+  height: 80%;
+}
+
+#picArea .grid .pic.p4::after{
+  background-image: url('img/hoian-showcase.jpg');
+  width: 80%;
+  height: 80%;
+}
+
+#picArea a.viewpic{
+  position: absolute;
+  margin-left: 20vw;
+  margin-top: 17vh;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.7em;
+  border: 1px #fff solid;
+  padding: 1rem 3rem;
+  z-index: 1;
+  filter: blur(50px);
+  transition: all 1000ms;
+}
+
+#picArea div.pic:hover a.viewpic{
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+}
+
+#picArea div.pic a.viewpic:hover{
+  background: #fff;
+  color: #333;
+}
+
+/* REVIEWS */
+
+#culture, #people{
+  margin: auto;
+  width: 85vw;
+  height: 100%;
+  text-align: center;
+}
+
+.grid-2{
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.des-text{
+  margin: 10% 5%;
+  font-size: 1.2rem;
+}
+
+.des-text h3{
+  font-size: 2em;
+}
+
+#culture img, #people img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* CULTURE */
+
+#culture{
+  margin-top: 2.5%;
+}
+
+#culture .cul-pic{
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-areas: 'pic1 pic1'
+                       'pic2 pic3';
+}
+
+#culture .cul-p-1{
+  grid-area: pic1;
+  width: 100%;
+  height: 100%  ;
+}
+
+#culture .cul-p-2{
+  grid-area: pic2;
+  width: 100%;
+  height: 100%;
+}
+
+#culture .cul-p-3{
+  grid-area: pic3;
+  width: 100%;
+  height: 100%;
+}
+
+
+/* PEOPLE */
+
+#people .man-pic{
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-areas: 'man1 man2'
+                       'man3 man3'
+                       'man4 man5';
+}
+
+#people div.man-p-1{
+  grid-area: man1;
+  width: 100%;
+  height: 100%;
+}
+
+#people div.man-p-2{
+  grid-area: man2;
+  width: 100%;
+  height: 100%;
+}
+#people div.man-p-3{
+  grid-area: man3;
+  width: 100%;
+  height: 100%;
+}
+
+#people div.man-p-4{
+  grid-area: man4;
+  width: 100%;
+  height: 100%;
+}
+
+#people div.man-p-5{
+  grid-area: man5;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+/* LOCATION */
+
+#location{
+  height: 100vh;
+  background: #fff;
+  color: #333;
+}
+
+#location a{
+  text-decoration: none;
+}
+
+#location img{
+  object-fit: cover;
+}
+
+#location .pic-location:hover{
+  height: 45vh;
+}
+
+#location .pic-location{
+  width: 100%;
+  height: 35vh;
+  object-fit: cover;
+  transition: all 1000ms;
+}
+
+.active-station{
+  background: #f1f1f1;
+}
+
+#location .active-guide{
+  opacity: 1;
+  border-bottom: 0.8px solid;
+}
+
+.grid-3{
+  height: 50%;
+  width: 85%;
+  position: relative;
+  top: 5%;
+  margin: auto;
+  display: grid;
+  grid-template-areas: 'lo des des';
+  grid-gap: 50px;
+}
+
+.location{
+  width: 100%;
+  height: 100%;
+  grid-area: lo;
+}
+
+.location ul{
+  list-style: none;
+}
+
+.location ul li{
+  font-size: 1.5em;
+  border-bottom: 1px solid #333;
+  margin: 10px 0;
+  transition: background 300ms ease-in;
+}
+
+.location ul li:hover{
+  background: #f1f1f1;
+}
+
+.location ul li a{
+  color: #666;
+}
+
+
+.l-des{
+  grid-area: des;
+  margin: 0 0;
+}
+
+.l-des h3{
+  font-size: 2em;
+  margin: 0;
+  text-align: center;
+}
+
+.l-des p{
+  font-size: 1.2em;
+}
+
+.l-guide{
+  list-style: none;
+  text-align: center;
+  margin-top: 3em;
+}
+
+.l-guide li{
+  display: inline;
+  margin: 0 20px;
+  font-size: 1.3em;
+}
+
+.l-guide li a{
+  color: #7572f4;
+  opacity: 0.5;
+  padding-bottom: 5px;
+}
+
+.l-guide li a:hover{
+  opacity: 1;
+  border-bottom: 0.8px solid;
+}
+
+.list-guide{
+  list-style: none;
+  text-align: left;
+}
+
+.l-guide-hide{
+  display: none;
+}
+
+.list-guide li{
+  margin: 15px 0;
+}
+
+.list-guide a{
+  text-decoration: none;
+  color: #333;
+  font-size: 1.2em;
+  padding-bottom: 0.2em;
+}
+
+.list-guide a:hover{
+  border-bottom: 1px solid #333;
+}
+/* FOOTER */
+
+footer div.author{
+  text-align: center;
+}
+
+footer div.author i{
+  color: red;
+}
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 1370px){
+
+  /* pic area */
+  #picArea .grid{
+    grid-template-columns: 1fr;
+  }
+
+  #picArea .pic{
+    object-fit: cover;
+  }
+
+  #picArea a.viewpic{
+    font-size: 0.8em;
+    margin-top: 5vh;
+    margin-left: 43vw;
+    padding: 0.8rem 2rem;
+  }
+
+  /* locatoin */
+
+  #location{
+    height: 100%;
+  }
+
+  /* culture, people */
+
+  #culture, #people{
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 980px){
+  #location .l-guide li{
+    font-size: 1.2em;
+    margin: 0 5px;
+  }
+}
+
+@media screen and (max-height: 566px){
+
+
+/* SHOWCASE */
+  .content{
+    margin-top: 0;
+    height: 250px;
+    width: 250px;
+  }
+
+  .content .logo{
+    font-size: 3rem;
+  }
+
+  .content .title{
+    font-size: 1.5rem;
+  }
+
+  .content .text{
+    font-size: 1rem;
+  }
+
+  /* CULTURE, PEOPLE */
+
+  #culture, #people{
+    height: 100%;
+  }
+
+  #culture .cul-pic{
+    display: '';
+  }
+  #culture .cul-p-1, .cul-p-3{
+    display: none;
+  }
+
+  #culture .cul-p-2{
+    height: 100%;
+    width: 100%;
+  }
+
+  #people .man-p-3, .man-p-4, .man-p-5{
+    display: none;
+  }
+
+  #people .man-pic{
+    grid-template-areas: 'man1 man2'
+  }
+
+  #people div.man-p-1, #people div.man-p-2{
+    height: 100%;
+  }
+
+  /* location */
+  #location {
+    height: 100%;
+  }
+}

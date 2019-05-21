@@ -1,0 +1,482 @@
+[{
+    "title": "Sapa",
+    "describe": "Sa Pa Town is located in Lao Cai Province, north-west Vietnam, and 350 km north-west of Hanoi city, close to the border with China. Sapa Town is famous both for its fine, rugged scenery and for its rich cultural diversity. French used to consider Sapa as Summer Capital of Northern Vietnam in the early decades of the 20th century. Its naturally gifted beauty keeps attracting more and more people to spend their vacation there since then. Particularly, the place is the foremost choice for honeymoon couples!\n\n Geographically, Sapa Town is exactly a mountainous area of Northwest Vietnam. The whole Sapa District is dominated by the Hoang Lien Son mountain range which is at the Eastern extremity of the Himalayas, being famous with the Vietnam’s highest mountain of Fa si pan at a height of 3,142 m above sea level. The town of Sa Pa lies at an altitude of about 1,600 m, bringing in a cool and foggy site of Sa Pa Town.\n\n Sapa Town takes its pride in its unique climate in Vietnam. It is highly seasonal, with a subtropical climate in the summer and a temperate climate during the winter. Mean annual temperature for Sa Pa town is 15.4°C, with a maximum of 29.4°C and a minimum of 1°C. The warmest months are July and August, and the coldest months are December and January. Snow falls in some years on the highest peaks. In the morning and afternoon, it is as cool as in spring and autumn. Yet, at noon, it is as sunny and cloudless as in summer. In the evening, it drastically changes into coldness just as in winter. This is actually a unique advantage, making Sapa Town different from anywhere else in the nation. However, travelers should be noticed that there might be sudden thunderstorm and heavy rains at noon in summer. Yet, subsequently, a rainbow appears turning Sapa into a beautifully magic land with seven colors! So, remember to bring your best camera so as not to miss this magnificent view!",
+    "food": [{
+        "fname": "Thang Co (Thắng cổ)",
+        "flink": "justgola.com/a/thang-co-a-quynh-restaurant-1978052316"
+      },
+      {
+        "fname": "Sapa Cap Nach Pork (Thịt heo cặp nách Sapa)",
+        "flink": "justgola.com/a/anh-dung-restaurant-1978052318"
+      },
+      {
+        "fname": "Pau Play Day Cake (Pau play day cake is often sold by street vendors in the morning or you can find it in markets.)",
+        "flink": "google.com"
+      },
+      {
+        "fname": "Salmon Sour Hotpot",
+        "flink": "justgola.com/a/hoa-dao-restaurant-1978054637"
+      },
+      {
+        "fname": "Bamboo sticky rice (Cơm lam)",
+        "flink": "justgola.com/a/khu-do-nuong-bbq-area-1978052337"
+      },
+      {
+        "fname": "Brook fish",
+        "flink": "justgola.com/a/hoang-minh-restaurant-1978052342"
+      },
+      {
+        "fname": "Tao Meo wine - a local whiskey of H’moong",
+        "flink": "justgola.com/a/rendez-vous-restaurant-1978054636"
+      },
+      {
+        "fname": "Khang Gai Dried Meat",
+        "flink": "justgola.com/a/fansipang-restaurant-1978052351"
+      },
+      {
+        "fname": "Black Mushroom",
+        "flink": "justgola.com/a/red-dao-house-1978052352"
+      },
+      {
+        "fname": "Black chicken",
+        "flink": "justgola.com/a/sapa-cuisine-restaurant-1978049047"
+      }
+    ],
+    "selfie": [{
+        "selfieLocation": "Cat Cat Village",
+        "selfielink": "vietnamonline.com/attraction/cat-cat-village.html"
+      },
+      {
+        "selfieLocation": "Ta Phin Village",
+        "selfielink": "vietnamonline.com/attraction/ta-phin-village.html"
+      },
+      {
+        "selfieLocation": "Hoang Yen Chao Castle",
+        "selfielink": "vietnamonline.com/attraction/hoang-yen-chao-castle.html"
+      },
+      {
+        "selfieLocation": "Bac Ha market",
+        "selfielink": "vietnamonline.com/attraction/bac-ha-market.html"
+      },
+      {
+        "selfieLocation": "Sapa market",
+        "selfielink": "vietnamonline.com/attraction/sapa-market.html"
+      },
+      {
+        "selfieLocation": "Ham Rong mountain",
+        "selfielink": "vietnamonline.com/attraction/ham-rong-mountain.html"
+      }
+    ],
+    "hotel": [{
+        "hotelName": "Muong Thanh Sapa Hotel Sapa",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Victoria Hotel and Resort Sapa",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Green Bamboo Hotel Sapa",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Chau Long Hotel Sapa",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Sapa Hotel Sapa",
+        "hotelLink": "google.com"
+      }
+    ],
+    "showcase": "img/sapa-showcase.jpg"
+  },
+  {
+    "title": "Ha Noi",
+    "describe": "Hanoi, located on the banks of the Red River, is one of the most ancient capitals in the world, where travellers can find well-preserved colonial buildings, ancient pagodas, and unique museums within the city centre. A great place to explore on foot, this French-colonial city is also known for its delectable cuisine, vibrant nightlife, silks and handicrafts, as well as a multi-cultural community that’s made up of Chinese, French and Russian influences.\n\n Meanwhile, its tranquil countryside is a short drive away, featuring lush parks, verdant mountains, and traditional villages, and not forgetting, the iconic Ha Long Bay. If you’re a first-time visitor to the Vietnamese capital, our Hanoi travel guide has everything you need to know for a fulfilling holiday, including the best accommodation, restaurants, attractions, shopping, and detailed information on the local culture, currency, climate, and  transport options.",
+    "food": [{
+        "fname": "Updating....",
+        "flink": "google.com"
+      },
+      {
+        "fname": "Updating....",
+        "flink": "google.com"
+      }],
+    "selfie": [{
+        "selfieLocation": "Tran Quoc Pagoda",
+        "selfielink": "vietnamonline.com/attraction/tran-quoc-pagoda.html"
+      },
+      {
+        "selfieLocation": "Ly Quoc Su Pagoda",
+        "selfielink": "vietnamonline.com/attraction/ly-quoc-su-pagoda.html"
+      },
+      {
+        "selfieLocation": "Saint Joseph Cathedral",
+        "selfielink": "vietnamonline.com/attraction/saint-joseph-cathedral.html"
+      },
+      {
+        "selfieLocation": "Bat Trang pottery village",
+        "selfielink": "vietnamonline.com/attraction/bat-trang-porcelain-and-pottery-village.html"
+      },
+      {
+        "selfieLocation": "Hanoi Opera House",
+        "selfielink": "vietnamonline.com/attraction/hanoi-opera-house.html"
+      },
+      {
+        "selfieLocation": "Hanoi Ancient House at 87 Ma May Street",
+        "selfielink": "vietnamonline.com/attraction/hanoi-ancient-house-at-87-ma-may-street.html"
+      }
+    ],
+    "hotel": [{
+        "hotelName": "Somerset West Lake Hanoi",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Nikko Hotel Hanoi",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Grand Plaza Hanoi Hotel Hanoi",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Sheraton Hanoi Hotel Hanoi",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Sedona Suites Hanoi",
+        "hotelLink": "google.com"
+      }
+    ],
+    "showcase": "img/hanoi-showcase.jpg"
+  },
+  {
+    "title": "Ha Long Bay",
+    "describe": "Halong Bay is a beautiful natural wonder in northern Vietnam near the Chinese border. The Bay is dotted with 1,600 limestone islands and islets and covers an area of over 1,500 sqkm. This extraordinary area was declared a UNESCO World Heritage Site in 1994. For many tourists, this place is like something right out of a movie. The fact is that Halong Bay features a wide range of biodiversity, while the surrealistic scenery has indeed featured in endless movies.\n\n The best way to get to Halong City is by car, minibus or bus from Hanoi which is only 170km away. If budget is not a problem, an hour-long helicopter transfer is also available.",
+    "food": [{
+        "fname": "Updating....",
+        "flink": "google.com"
+      },
+      {
+        "fname": "Updating....",
+        "flink": "google.com"
+      }],
+    "selfie": [{
+        "selfieLocation": "Tran Quoc Pagoda",
+        "selfielink": "vietnamonline.com/attraction/tran-quoc-pagoda.html"
+      },
+      {
+        "selfieLocation": "Ly Quoc Su Pagoda",
+        "selfielink": "vietnamonline.com/attraction/ly-quoc-su-pagoda.html"
+      },
+      {
+        "selfieLocation": "Saint Joseph Cathedral",
+        "selfielink": "vietnamonline.com/attraction/saint-joseph-cathedral.html"
+      },
+      {
+        "selfieLocation": "Bat Trang pottery village",
+        "selfielink": "vietnamonline.com/attraction/bat-trang-porcelain-and-pottery-village.html"
+      },
+      {
+        "selfieLocation": "Hanoi Opera House",
+        "selfielink": "vietnamonline.com/attraction/hanoi-opera-house.html"
+      },
+      {
+        "selfieLocation": "Hanoi Ancient House at 87 Ma May Street",
+        "selfielink": "vietnamonline.com/attraction/hanoi-ancient-house-at-87-ma-may-street.html"
+      }
+    ],
+    "hotel": [{
+        "hotelName": "Novotel Ha Long Bay Ha Long",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Tuan Chau Island Holiday Villa Ha Long",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Royal Lotus Hotel Ha Long",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "BMC Thang Long Hotel Ha Long",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Muong Thanh Ha Long Hotel",
+        "hotelLink": "google.com"
+      }
+    ],
+    "showcase": "img/halong-showcase.jpg"
+  },
+  {
+    "title": "Hue",
+    "describe": "Located on the bank of Song Huong- Perfume River; Hue, the capital of Thua Thien Hue province in Central Vietnam, is 700 km southern Hanoi, 1100km northern Ho Chi Minh City, and only a few miles from the sea. Not until 1945 was Hue the national capital, the political, cultural and religious center of Vietnam under the control of Nguyen Dynasty. Most well-known for its historic values; Hue had been recognized as one of the World Heritage Sites by UNESCO.",
+    "food": [{
+        "fname": "Updating....",
+        "flink": "google.com"
+      },
+      {
+        "fname": "Updating....",
+        "flink": "google.com"
+      }],
+    "selfie": [{
+        "selfieLocation": "Bach Ma National Park",
+        "selfielink": "vietnamonline.com/attraction/bach-ma-national-park.html"
+      },
+      {
+        "selfieLocation": "Vong Canh Hill",
+        "selfielink": "vietnamonline.com/attraction/vong-canh-hill.html"
+      },
+      {
+        "selfieLocation": "Hue Temple of Literature",
+        "selfielink": "vietnamonline.com/attraction/hue-temple-of-literature.html"
+      },
+      {
+        "selfieLocation": "Nam Giao Esplanade",
+        "selfielink": "vietnamonline.com/attraction/nam-giao-esplanade.html"
+      },
+      {
+        "selfieLocation": "Quoc Hoc Hue - Century Old High School",
+        "selfielink": "vietnamonline.com/attraction/quoc-hoc-hue---century-old-high-school.html"
+      },
+      {
+        "selfieLocation": "Hue Imperial Citadel",
+        "selfielink": "vietnamonline.com/attraction/hue-imperial-citadel.html"
+      }
+    ],
+    "hotel": [{
+        "hotelName": "Imperial Hotel Hue",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Celadon Hotel Hue",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Huong Giang Hotel Resort & Spa Hue",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Green Hotel Hue",
+        "hotelLink": "google.com"
+      }
+    ],
+    "showcase": "img/hue-showcase.jpg"
+  },
+  {
+    "title": "Hoi An",
+    "describe": "Ancient and peaceful, Hoi An is one of the most popular destinations in Vietnam that caters to travellers of all tastes and across the continents. The little town is just the perfect candidate of what Vietnam tourism ministry is aiming to show to the world.",
+    "food": [{
+        "fname": "Updating....",
+        "flink": "google.com"
+      },
+      {
+        "fname": "Updating....",
+        "flink": "google.com"
+      }],
+    "selfie": [{
+        "selfieLocation": "Hoi An Traditional Art Performance Theatre",
+        "selfielink": "vietnamonline.com/attraction/hoi-an-traditional-art-performance-theatre.html"
+      },
+      {
+        "selfieLocation": "Vong Canh Hill",
+        "selfielink": "vietnamonline.com/attraction/vong-canh-hill.html"
+      },
+      {
+        "selfieLocation": "Old House of Tan Ky",
+        "selfielink": "vietnamonline.com/attraction/old-house-of-tan-ky.html"
+      },
+      {
+        "selfieLocation": "Kim Bong Carpentry Village",
+        "selfielink": "vietnamonline.com/attraction/kim-bong-carpentry-village.html"
+      },
+      {
+        "selfieLocation": "Tra Que Herb Village",
+        "selfielink": "vietnamonline.com/attraction/tra-que-herb-village.html"
+      },
+      {
+        "selfieLocation": "Cham Island (Cu Lao Cham)",
+        "selfielink": "vietnamonline.com/attraction/hue-imperial-citadel.html"
+      },
+      {
+        "selfieLocation": "My Son Sanctuary",
+        "selfielink": "vietnamonline.com/attraction/my-son-sanctuary.html"
+      }
+    ],
+    "hotel": [{
+        "hotelName": "Hoi An Historic Hotel Hoi An",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Palm Garden Beach Resort & Spa",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Hoi An Glory Hotel & Spa Hoi An",
+        "hotelLink": "google.com"
+      }
+    ],
+    "showcase": "img/hoian-showcase.jpg"
+  },
+  {
+    "title": "Nha Trang",
+    "describe": "According to historical records, Nha Trang was known as Kauthara under the Champa, as it is still home to the famous Po Nagar Tower built by the Champa. Until the French colonization, Nha Trang used to be no more than small fishing villages. The French recognized Nha Trang as a perfect place for bathing, so they invested in the transformation to turn Nha Trang into a resort town.",
+    "food": [{
+        "fname": "Updating....",
+        "flink": "google.com"
+      },
+      {
+        "fname": "Updating....",
+        "flink": "google.com"
+      }],
+    "selfie": [{
+        "selfieLocation": "Po Nagar Cham Towers",
+        "selfielink": "vietnamonline.com/attraction/po-nagar-cham-towers.html"
+      },
+      {
+        "selfieLocation": "Nha Trang Information Center (Nha Trang Live)",
+        "selfielink": "vietnamonline.com/attraction/nha-trang-information-center-nha-trang-live.html"
+      },
+      {
+        "selfieLocation": "Oceanographic Museum of Vietnam",
+        "selfielink": "vietnamonline.com/attraction/oceanographic-museum-of-vietnam.html"
+      },
+      {
+        "selfieLocation": "Vinpearl land",
+        "selfielink": "vietnamonline.com/attraction/vinpearl-land.html"
+      }
+    ],
+    "hotel": [{
+        "hotelName": "Evason Ana Mandara Resort & Six Senses Spa Nha Trang",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Vinpearl Luxury Nha Trang",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Sheraton Nha Trang Hotel & Spa Nha Trang",
+        "hotelLink": "google.com"
+      }
+    ],
+    "showcase": "img/nhatrang-showcase.jpg"
+  },
+  {
+    "title": "Da Lat",
+    "describe": "Dalat looks like a cross between Vietnam and the French Alps. Many of its hotels and houses were built in a French style during the French colonization. There are many places for tourists interested in architecture to visit, such as Dalat Railway Station, designed by French architects Moncet and Reveron, or Hang Nga guest house, a.k.a ‘Crazy house’ which is also an interesting place to stay.",
+    "food": [{
+        "fname": "Updating....",
+        "flink": "google.com"
+      },
+      {
+        "fname": "Updating....",
+        "flink": "google.com"
+      }],
+    "selfie": [{
+        "selfieLocation": "Langbiang Mountain - Dalat",
+        "selfielink": "vietnamonline.com/attraction/langbiang-mountain-dalat.html"
+      },
+      {
+        "selfieLocation": "Dalat Flower Gardens",
+        "selfielink": "vietnamonline.com/attraction/dalat-flower-gardens.html"
+      },
+      {
+        "selfieLocation": "Dalat Railway Station",
+        "selfielink": "vietnamonline.com/attraction/dalat-railway-station.html"
+      },
+      {
+        "selfieLocation": "Bao Dai Summer Palace",
+        "selfielink": "vietnamonline.com/attraction/bao-dai-summer-palace.html"
+      },
+      {
+        "selfieLocation": "Hang Nga guesthouse (Crazy house)",
+        "selfielink": "vietnamonline.com/attraction/hang-nga-guesthouse-crazy-house.html"
+      },
+      {
+        "selfieLocation": "Xuan Huong Lake",
+        "selfielink": "vietnamonline.com/attraction/xuan-huong-lake.html"
+      }
+    ],
+    "hotel": [{
+        "hotelName": "Dalat Eden Lake Resort & Spa Dalat",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Dalat Palace Luxury Hotel & Golf Club Dalat",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Ana Mandara Villas Dalat Resort & Spa Dalat",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "La Sapinette Hotel Dalat",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Dalat Hotel Du Parc Dalat",
+        "hotelLink": "google.com"
+      }
+    ],
+    "showcase": "img/dalat-showcase.jpg"
+  },
+  {
+    "title": "Ho Chi Minh City",
+    "describe": "Once dearly called Diamond of the Far-east with the luxury level overriding that of Hongkong or Bangkok, Ho Chi Minh City is now the most populated city in Vietnam. Modern office skyscrapers, amidst Oriental style pagodas and food stalls along the street, create a dynamic urban area in very special sense. It is not oddly tidy like in Singapore, nor is urban slumps omnipresent like in India.",
+    "food": [{
+        "fname": "Updating....",
+        "flink": "google.com"
+      },
+      {
+        "fname": "Updating....",
+        "flink": "google.com"
+      }],
+    "selfie": [{
+        "selfieLocation": "Dong Tam Snake Farm",
+        "selfielink": "vietnamonline.com/attraction/dong-tam-snake-farm.html"
+      },
+      {
+        "selfieLocation": "People's Committee Building - Ho Chi Minh City",
+        "selfielink": "vietnamonline.com/attraction/peoples-committee-building---ho-chi-minh-city.html"
+      },
+      {
+        "selfieLocation": "Vam Sat Ecological tourist center",
+        "selfielink": "vietnamonline.com/attraction/vam-sat-ecological-tourist-center.html"
+      },
+      {
+        "selfieLocation": "Binh Quoi Village",
+        "selfielink": "vietnamonline.com/attraction/binh-quoi-village.html"
+      },
+      {
+        "selfieLocation": "Cho Lon, District 5",
+        "selfielink": "vietnamonline.com/attraction/cho-lon.html"
+      },
+      {
+        "selfieLocation": "Vinh Nghiem Pagoda",
+        "selfielink": "vietnamonline.com/attraction/vinh-nghiem-pagoda.html"
+      }
+    ],
+    "hotel": [{
+        "hotelName": "DNew World Hotel Ho Chi Minh City",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Moevenpick Hotel Ho Chi Minh City",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Sofitel Saigon Plaza Ho Chi Minh City",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Caravelle Hotel Ho Chi Minh City",
+        "hotelLink": "google.com"
+      },
+      {
+        "hotelName": "Park Hyatt Saigon Hotel Ho Chi Minh City",
+        "hotelLink": "google.com"
+      }
+    ],
+    "showcase": "img/pic3.jpg"
+  }
+]
